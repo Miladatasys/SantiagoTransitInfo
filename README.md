@@ -1,5 +1,3 @@
-# SantiagoTransitInfo
-
 # Santiago Transit Information
 
 Este repositorio contiene un proyecto para gestionar y analizar información de transporte público en Santiago, Chile.
